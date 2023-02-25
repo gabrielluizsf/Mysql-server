@@ -36,3 +36,10 @@ extension=mysql.so
 ```bash
 sudo /etc/init.d/apache2 restart
 ```
+
+
+## Exit MySQL CLI
+
+```bash
+exit
+```
