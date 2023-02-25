@@ -7,7 +7,7 @@ sudo apt-get install mysql-server
 ```
 
 ```mysql
-mysql -u root
+sudo mysql -h localhost -u root -p
 ```
 
 ```mysql
